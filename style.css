@@ -1,0 +1,33 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size:50px;
+
+}
+span{
+    color:rgb(243, 10, 22);
+}
+button{
+    background-image: linear-gradient(orange,tomato);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+section{
+    display: flex;
+}
+.messi{
+    width: 50%;
+    padding-left: 10%;
+}
+.messi img{
+    width: 70%;
+}
+.back{
+    background-image: url(abs1.png);
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
