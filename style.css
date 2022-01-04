@@ -50,3 +50,23 @@ section{
 .mo{
     background-image: url(mo5.png);
 }
+.flex{
+    background-image: url(mo4.png);
+
+}
+.miao{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left:20px;
+    box-shadow:10px 10px 40px  rgb(10, 10, 10);
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(100, 7, 92),cyan);
+    border-image-slice: 1;
+}
+h3{
+    color: orange;
+}
+h2{
+    font-size: 40px;
+}
